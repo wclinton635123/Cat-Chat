@@ -1,0 +1,11 @@
+H:\CatChat\CatChat\bin\Debug\CatChat.exe
+H:\CatChat\CatChat\bin\Debug\CatChat.pdb
+H:\CatChat\CatChat\bin\Debug\CatChat.xml
+H:\CatChat\CatChat\obj\x86\Debug\CatChat.Resources.resources
+H:\CatChat\CatChat\obj\x86\Debug\CatChat.vbproj.GenerateResource.Cache
+H:\CatChat\CatChat\obj\x86\Debug\CatChat.exe
+H:\CatChat\CatChat\obj\x86\Debug\CatChat.xml
+H:\CatChat\CatChat\obj\x86\Debug\CatChat.pdb
+H:\CatChat\CatChat\obj\x86\Debug\CatChat.Connect_Screen.resources
+H:\CatChat\CatChat\obj\x86\Debug\CatChat.Chat_Screen.resources
+H:\CatChat\CatChat\obj\x86\Debug\CatChat.Error1.resources
